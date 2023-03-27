@@ -25,7 +25,7 @@ are by appointment; email the instructor or TA directly.
 
 ## Useful Links
 
-- Ed discussion board (coming soon)
+- [Ed discussion board](https://edstem.org/us/courses/38154/discussion/)
   for registered participants
 - This course's [Canvas page](https://canvas.uw.edu/courses/1633313)
 - [Form](https://forms.gle/A6UuTGjJ9cqPTnPh9) to privately and

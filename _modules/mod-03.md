@@ -6,10 +6,10 @@ T May 16
 : No class meeting.
 
 Th May 18
-: Class meeting: fourth updates from teams 1, 2, 3, and 4.   Report #9 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/project/605b7f5609565b2be481d114) and submit through Canvas.  **deadline**{: .label .label-red }
+: Class meeting: fourth updates from teams 1, 2, and 3.   Report #9 is due at 11:59.  You will individually report on your team’s effectiveness, including a summary of your own, and each team member’s contributions so far.  These reports will only be seen by course staff.  [Use this template](https://www.overleaf.com/project/605b7f5609565b2be481d114) and submit through Canvas.  **deadline**{: .label .label-red }
 
 T May 23
-: Class meeting:  fourth updates from teams 5, 6, 7, and 8.
+: Class meeting:  fourth updates from teams 4 and 5.
 
 Th May 25
 : Class meeting:  TBD
